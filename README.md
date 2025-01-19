@@ -30,6 +30,5 @@ We are always happy to have your contributions!
 Feel free to suggest changes by submitting Issues or Pull Requests.
 We welcome any suggestions for improving the project!
 
----
 
 Thank you for checking out this project! 🚀
